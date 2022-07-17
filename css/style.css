@@ -1,0 +1,58 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+h1{
+  margin: 0;
+}
+p{
+  font-size: 20px;
+}
+span{
+  text-decoration: underline;
+}
+.Topcontainer{
+  background-color: #E4F9F5;
+  padding-top: 100PX
+}
+.mountain{
+  width: 60%;
+  height: auto;
+}
+.topcloud{
+  width: 17%;
+  height: auto;
+  position: absolute;
+  right: 20%;
+  top: 6%;
+}
+.bottomcloud{
+  width: 17%;
+  height: auto;
+position: absolute;
+left: 20%;
+top: 26%;
+}
+.Rathul{
+  width: 150px;
+  height: auto;
+  padding-top: 10px;
+  border-radius: 50%;
+}
+.java{
+  width: 150px;
+  height: auto;
+  padding-top: 10px;
+  border-radius: 50%;
+}
+.p1{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.web{
+  width: 150px;
+  height: auto;
+  padding-top: 10px;
+  border-radius: 100%;
+}
